@@ -1,4 +1,4 @@
-[Home Page](README.md)
+[Home Page](../README.md)
 
 # PySpark Data Types
 
@@ -88,4 +88,4 @@ In PySpark, data types define the type of data that can be stored in a DataFrame
 
 These data types are used to define schema for DataFrames and to cast or convert between different types when necessary.
 
-[Home Page](README.md)
+[Home Page](../README.md)
